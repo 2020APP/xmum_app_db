@@ -1,2 +1,2 @@
 # xmum_app_db
-Download and install at path xampp>mysql>data
+DON'T DIRECTLY COPY AND PASTE THESE FILES INTO XAMPP, will cause error. 
